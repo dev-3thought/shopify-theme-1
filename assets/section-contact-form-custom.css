@@ -24,8 +24,9 @@
   margin-top: 3rem;
 }
 .button-rounded{
-  color: #591616 !important;
-  border-radius: 7px !important;
+  background: #591616;
+  border-radius: 7px;
+  color: #fff;
 }
 @media screen and (min-width: 750px) {
   .contact__button {
