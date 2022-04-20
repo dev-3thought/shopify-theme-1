@@ -22,10 +22,11 @@
 
 .contact__button {
   margin-top: 3rem;
+}
+.button-rounded{
   color: #591616 !important;
   border-radius: 7px !important;
 }
-
 @media screen and (min-width: 750px) {
   .contact__button {
     margin-top: 4rem;
