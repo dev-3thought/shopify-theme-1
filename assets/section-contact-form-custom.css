@@ -22,6 +22,10 @@
 
 .contact__button {
   margin-top: 3rem;
+  background: #591616;
+  color: #fff;
+  box-shadow: 0 1px 1px 5px rgb(41, 41, 41);
+  border-radius: 7px;
 }
 
 @media screen and (min-width: 750px) {
