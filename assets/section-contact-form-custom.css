@@ -22,8 +22,8 @@
 
 .contact__button {
   margin-top: 3rem;
-  color: #591616;
-  border-radius: 7px;
+  color: #591616 !important;
+  border-radius: 7px !important;
 }
 
 @media screen and (min-width: 750px) {
